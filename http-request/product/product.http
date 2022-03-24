@@ -1,0 +1,3 @@
+### get product by id
+GET {{host}}/api/v1/product/{{product-id}}
+Authorization: Basic {{username}} {{password}}

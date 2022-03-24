@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: 'worldsky'
+
+server:
+  port: 8080
+
+security:
+  users:
+    google:
+      username: "jf0329fj049"
+      password: "gj4389gjdf0"
+      role: "USER"
+    admin:
+      username: "h8d9f23h"
+      password: "h39f8h29f"
+      role: "ADMIN"
+

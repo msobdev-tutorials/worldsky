@@ -1,0 +1,13 @@
+server:
+  port: 8081
+
+security:
+  users:
+    test:
+      username: "username"
+      password: "password"
+      role: "USER"
+    test2:
+      username: "username2"
+      password: "password2"
+      role: "ADMIN"
